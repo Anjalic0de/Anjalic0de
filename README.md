@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Anjali Verma</h1>
 <h3 align="center">An enthusiastic frontend developer from India</h3>
 
-<img src="https://te.legra.ph/file/7f501572a7425e7ee0d72.jpg" width="5000" />
+<img src="https://te.legra.ph/file/7fc8861dc8eedca47af4d.mp4" width="5000" />
 
 (img align="right" alt="Coding" width="400" src="https://te.legra.ph/file/7fc8861dc8eedca47af4d.mp4")
 
