@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Anjali Verma</h1>
 <h3 align="center">An enthusiastic frontend developer from India</h3>
 
+(img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.interviewbit.com%2Fblog%2Fweb-stories%2Fdifference-between-agile-and-scrum%2F&psig=AOvVaw0zrBt5zCQ78jhBRbNHg1Up&ust=1674034696888000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLjdv62nzvwCFQAAAAAdAAAAABAF")
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjalic0de&label=Profile%20views&color=0e75b6&style=flat" alt="anjalic0de" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjalic0de" alt="anjalic0de" /></a> </p>
