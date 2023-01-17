@@ -5,8 +5,6 @@
 
 <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" width="5000" />
 
-(img align="right" alt="Coding" width="400" src="https://te.legra.ph/file/7fc8861dc8eedca47af4d.mp4")
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjalic0de&label=Profile%20views&color=0e75b6&style=flat" alt="anjalic0de" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjalic0de" alt="anjalic0de" /></a> </p>
@@ -31,6 +29,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/anjalic0de"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="anjalic0de" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjalic0de&show_icons=true&locale=en" alt="anjalic0de" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anjalic0de&show_icons=true&locale=en" alt="anjalic0de" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjalic0de&" alt="anjalic0de" /></p>
