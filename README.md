@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Anjali Verma</h1>
 <h3 align="center">An enthusiastic frontend developer from India</h3>
 
-<img src="https://tenor.com/view/programming-gif-25868426" width="5000" />
+<img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" width="5000" />
 
 (img align="right" alt="Coding" width="400" src="https://te.legra.ph/file/7fc8861dc8eedca47af4d.mp4")
 
@@ -30,8 +30,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/anjalic0de"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="anjalic0de" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjalic0de&show_icons=true&locale=en&layout=compact" alt="anjalic0de" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjalic0de&show_icons=true&locale=en" alt="anjalic0de" /></p>
 
