@@ -28,8 +28,8 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/anjalic0de"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="anjalic0de" /></a></p><br><br>
-<center>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anjalic0de&show_icons=true&locale=en" alt="anjalic0de" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anjalic0de&" alt="anjalic0de" /></p>
-</center>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjalic0de&show_icons=true&locale=en" alt="anjalic0de" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjalic0de&" alt="anjalic0de" /></p>
