@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Anjali Verma</h1>
 <h3 align="center">An enthusiastic frontend developer from India</h3>
 
-(img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.interviewbit.com%2Fblog%2Fweb-stories%2Fdifference-between-agile-and-scrum%2F&psig=AOvVaw0zrBt5zCQ78jhBRbNHg1Up&ust=1674034696888000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLjdv62nzvwCFQAAAAAdAAAAABAF")
+(img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.tenor.com%2F-6m2vqRjKDEAAAAi%2Fgeek-girl.gif&imgrefurl=https%3A%2F%2Fwww.interviewbit.com%2Fblog%2Fweb-stories%2Fdifference-between-agile-and-scrum%2F&tbnid=ggPiiH87upmkKM&vet=12ahUKEwjz--6sp878AhU9ALcAHQ7DAdoQMyhJegUIARCqAQ..i&docid=7DR4fam6Q8V_NM&w=427&h=465&itg=1&q=animated%20coding%20gif&ved=2ahUKEwjz--6sp878AhU9ALcAHQ7DAdoQMyhJegUIARCqAQ")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjalic0de&label=Profile%20views&color=0e75b6&style=flat" alt="anjalic0de" /> </p>
 
